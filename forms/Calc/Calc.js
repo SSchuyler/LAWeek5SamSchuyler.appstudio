@@ -12,6 +12,4 @@ All output must be done in the main program, not in the function.
 Output to the console using this format:
 
 The sum of X and Y is Z.     (X  and Y are from the user; Z is the sum returned by the function). 
-*/
-
 

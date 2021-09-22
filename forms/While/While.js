@@ -9,7 +9,7 @@ Each time the loop runs, it must output a line of text to the console that shows
      This is loop iteration 2.
      etc.     
 */
-/*
+
 let user = prompt('insert a number for how many iterations you would like to repeat')
 let num = 1
 
@@ -18,5 +18,4 @@ while(num < user){
   num = num + 1
 }
 
-console.log(`This is the final iteration, ${num}.`)
-*/
+
