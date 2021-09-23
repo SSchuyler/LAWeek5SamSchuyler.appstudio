@@ -13,7 +13,7 @@ Output to the console using this format:
 
 The sum of X and Y is Z.     (X  and Y are from the user; Z is the sum returned by the function). 
 */
-/*
+
 function Calculate(num1, num2) {
    let answer = num1 + num2
    return answer
@@ -26,4 +26,3 @@ let number2 = prompt('Enter your second number: ')
 
 let newAnswer = Calculate(number1, number2)
   console.log(`The sum of ${number1} and ${number2} is ${newAnswer}`)
-*/
